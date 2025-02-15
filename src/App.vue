@@ -43,7 +43,7 @@ return tasks.filter(task=>"Completed"==task.status)
 
 <template>
 
-  
+  <HelloWorld/>
   <section>
     <h1 style="border: 5px solid aquamarine; border-radius: 10px; background-color: aquamarine; padding: 10px; margin-top: 5px;">All the Task details</h1>
     <hr>  
